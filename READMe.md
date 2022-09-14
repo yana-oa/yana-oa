@@ -2,7 +2,7 @@
 
 Computer Science lover since I was 9. Currently on the way to become a Data Scientist as someone that is always learning, solving problems, and producing creative connections. 
 
-I'm making it my mission to translate complex and big data into universally accessible visuals or tools that can automate even the craziest of processes. (I love to dabble in game design and development too!)
+I'm making it my mission to translate complex and big data into universally accessible visuals or tools that can automate even the craziest of processes. (I love to dabble in game design and development too!)  I've personally worked with various core data analytics tools such as Sheets/Excel, SQL, Tableau, Rstudio, and Python.
 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
