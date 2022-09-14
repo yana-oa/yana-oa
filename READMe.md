@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Ariana 
+# 👋 Hey, I'm Ariana 👩🏻‍💻
 
 Computer Science lover since I was 9. Currently on the way to become a Data Scientist as someone that is always learning, solving problems, and producing creative connections. 
 
@@ -25,10 +25,10 @@ I'm making it my mission to translate complex and big data into universally acce
 
 </details>
 
-### Completed Courses
+## 🌠Completed Courses and Certifications
 ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) Google Data Analytics Certification Course 
 <br>
-![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) SQL Mastery for Data Science
 <br>
 ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
 <br>
