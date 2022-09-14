@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Ariana 
 
-Computer Science lover since I was 9 years old. Currently on the path to becoma a Data Scientist as someone that is always learning, solving problems, and producing creative connections. 
+Computer Science lover since I was 9. Currently on the way to become a Data Scientist as someone that is always learning, solving problems, and producing creative connections. 
 
 I'm making it my mission to translate complex and big data into universally accessible visuals or tools that can automate even the craziest of processes. (I love to dabble in game design and development too!)
 
