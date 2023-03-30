@@ -4,7 +4,7 @@ Computer Science lover since I was 9. Data Science is my passion as someone that
 
 I'm making it my mission to translate complex and big data into universally accessible visuals or tools that can automate even the craziest of processes. (I love to dabble in game design and development too!)  I've personally worked with various core data analytics tools such as Sheets/Excel, SQL, Tableau, Rstudio, and Python.
 
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://www.linkedin.com/in/arianafaye-penalosa/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
